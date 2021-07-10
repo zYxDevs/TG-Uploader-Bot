@@ -11,6 +11,15 @@ Telegram RoBot to Upload Links.
 
 👉 Upload HTTP/HTTPS as File/Video to Telegram.
 
+## Deploy 
+
+<b>Deploy on Heroku</b>
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/zYxDevs/TG-Uploader-Bot">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+
 
 ## Credits, and Thanks to:
 
