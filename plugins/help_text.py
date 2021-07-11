@@ -50,7 +50,7 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton(
-                            "Source", url="https://github.com/YogaPranataDMK/AllRepository"
+                            "Source", url="https://iamsmart.com"
                         ),
                         InlineKeyboardButton("Project Channel", url="https://t.me/SpreadNetworks"),
                     ],
